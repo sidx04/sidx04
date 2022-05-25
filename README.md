@@ -7,7 +7,7 @@
   <p><img src="https://komarev.com/ghpvc/?username=sid04&amp;color=ff43b9&amp;style=for-the-badge" alt=""></p>
   
 <h1 align='center'>Skillset</h1>
-  <p><img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,git,github,bash"></a></p>
+  <p><img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,git,github,bash,vim"></a></p>
 
 
 
