@@ -7,7 +7,7 @@
 	  
   
 <h1 align='center'>Skillset</h1>
-  <p><img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,git,github,bash,vim"></a></p>
+  <p><img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,nodejs,express,git,github,bash,vim"></a></p>
 
 
 
