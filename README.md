@@ -12,7 +12,7 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=sidx04&rank_icon=github&custom_title=Sid%27s%20stats&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=github&custom_title=Sid%27s%20stats&show_icons=true&include_all_commits=true&theme=dark)
 
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=6&hide_values=true&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=6&hide_values=true&theme=dark&hide=jupyter%20notebook,vim%20script,html,css,markdown)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=6&hide_values=true&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=6&hide_values=true&theme=dark&hide=jupyter%20notebook,vim%20script,html,css)
 
 
 
