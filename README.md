@@ -9,4 +9,5 @@
 <h1 align='center'>Skillset</h1>
   <p><img src="https://skillicons.dev/icons?i=java,python,c,rust,golang,nim,html,css,js,ts,nextjs,react,nodejs,express,git,github,bash,vim"></a></p>
   -->
-[![Sid's GitHub stats](https://github-stats-extended.vercel.app/api?username=sidx04)](https://github.com/stats-organization/github-stats-extended)
+[![Sid's GitHub stats](https://github-stats-extended.vercel.app/api?username=sidx04)](https://github.com/stats-organization/github-stats-extended&show_icons=true)
+[![Sid's Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=sidx04)](https://github.com/stats-organization/github-stats-extended)
