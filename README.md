@@ -9,8 +9,10 @@
 <h1 align='center'>Skillset</h1>
   <p><img src="https://skillicons.dev/icons?i=java,python,c,rust,golang,nim,html,css,js,ts,nextjs,react,nodejs,express,git,github,bash,vim"></a></p>
   -->
-[![Sid's GitHub stats](https://github-stats-extended.vercel.app/api?username=sidx04&theme=moltack)](https://github.com/stats-organization/github-stats-extended&show_icons=true)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=github&custom_title=Sid%27s%20stats&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=github&custom_title=Sid%27s%20stats&show_icons=true&include_all_commits=true&theme=dark)
 
 
-[![Sid's Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=sidx04&theme=moltack&hide=jupyter%20notebook&layout=donut-vertical)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=6&hide_values=true&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=6&hide_values=true&theme=dark&hide=jupyter%20notebook,vim%20script)
+
+
 
