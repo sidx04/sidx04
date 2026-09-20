@@ -14,4 +14,3 @@
 
 [![Sid's Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=sidx04&theme=moltack&hide=jupyter%20notebook&layout=donut-vertical)](https://github.com/stats-organization/github-stats-extended)
 
-[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=sidx04&repo=type-trident)](https://github.com/anuraghazra/type-trident)
